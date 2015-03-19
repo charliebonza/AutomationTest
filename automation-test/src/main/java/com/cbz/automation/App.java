@@ -1,4 +1,4 @@
-package com.codesse.automation;
+package com.cbz.automation;
 
 /**
  * Hello world!
