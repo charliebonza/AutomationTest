@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<FindBugsFilter>
+    <!--<Match>-->
+    <!--<Class name="com.bz.automation.IgnoreMe"/>-->
+    <!--</Match>-->
+    <!--<Match>-->
+    <!--<Class name="~com\.bz\.automation\.ignore\..*"/>-->
+    <!--</Match>-->
+    <Match>
+        <Class name="~org\.openjdk\.jmh\..*"/>
+    </Match>
+
+    <!--<Match>-->
+    <!--<Class name="com.bz.automation.IgnoreMe"/>-->
+    <!--<Bug code="OS"/>-->
+    <!--</Match>-->
+</FindBugsFilter>

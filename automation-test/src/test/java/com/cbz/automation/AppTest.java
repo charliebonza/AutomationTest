@@ -1,4 +1,4 @@
-package com.codesse.automation;
+package com.cbz.automation;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
