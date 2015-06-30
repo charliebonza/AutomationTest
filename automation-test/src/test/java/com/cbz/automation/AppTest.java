@@ -28,4 +28,17 @@ public class AppTest
         return new TestSuite( AppTest.class );
     }
 
+    /**
+     * Another Rigorous Test :-)
+     */
+    public void testTheAppByDoingSomething() {
+        assertFalse (false);
+    }
+
+    /**
+     * Another Rigorous Test :-)
+     */
+    public void testTheAppByDoingSomethingElse() {
+        assertFalse(false);
+    }
 }
