@@ -1,7 +1,6 @@
 package com.cbz.automation;
 
 /**
- * Hello world!
  * Change to the comments
  *
  */
