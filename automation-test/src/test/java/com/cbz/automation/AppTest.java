@@ -6,10 +6,9 @@ import junit.framework.TestSuite;
 
 /**
  * Unit test for simple App.
+ * Additional comment
  */
-public class AppTest 
-    extends TestCase
-{
+public class AppTest extends TestCase {
     /**
      * Create the test case
      *
@@ -29,10 +28,16 @@ public class AppTest
     }
 
     /**
-     * Rigourous Test :-)
+     * Another Rigorous Test :-)
      */
-    public void testApp()
-    {
-        assertTrue( true );
+    public void testTheAppByDoingSomething() {
+        assertFalse (false);
+    }
+
+    /**
+     * Another Rigorous Test :-)
+     */
+    public void testTheAppByDoingSomethingElse() {
+        assertFalse(false);
     }
 }
